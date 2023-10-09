@@ -2,23 +2,23 @@
 Automated Intelligent Web app to extract Entities from Document - Business Card
 # Project Objectives
 
-The main objectives of the project are as follows:
+The main objectives of the project are as follows:<br>
 
-a) Develop a user-friendly web application that allows users to upload documents and extract text and data from them.
-b) Implement advanced OCR algorithms to accurately recognize and extract text from documents of different formats, including PDF, images, and scanned documents.
-c) Utilize NLP techniques to extract structured data, such as names, designations, phone numbers, and other relevant information, from the extracted text.
-d) Provide a clean and intuitive user interface to visualize and review the extracted information, allowing users to make necessary edits and corrections.
-e) Ensure scalability and performance of the web application to handle a large volume of document uploads and extractions concurrently.
+a) Develop a user-friendly web application that allows users to upload documents and extract text and data from them.<br>
+b) Implement advanced OCR algorithms to accurately recognize and extract text from documents of different formats, including PDF, images, and scanned documents.<br>
+c) Utilize NLP techniques to extract structured data, such as names, designations, phone numbers, and other relevant information, from the extracted text.<br>
+d) Provide a clean and intuitive user interface to visualize and review the extracted information, allowing users to make necessary edits and corrections.<br>
+e) Ensure scalability and performance of the web application to handle a large volume of document uploads and extractions concurrently.<br>
 
 ## Key Features
 
-The proposed web application will include the following key features:
+The proposed web application will include the following key features:<br>
 
-a) **Document Upload:** Users will be able to upload documents in various formats, including PDF, images, and scanned documents.
-b) **Text Extraction:** Advanced OCR algorithms will be employed to extract text from the uploaded documents accurately.
-c) **Data Extraction:** NLP techniques will be utilized to identify and extract structured data such as names, addresses, dates, and other relevant information from the extracted text.
-d) **Data Visualization:** The application will provide an intuitive user interface to visualize the extracted data, allowing users to review and make necessary edits or corrections.
-e) **Security and Privacy:** Robust security measures will be implemented to protect user data and ensure compliance with privacy regulations.
+a) **Document Upload:** Users will be able to upload documents in various formats, including PDF, images, and scanned documents.<br>
+b) **Text Extraction:** Advanced OCR algorithms will be employed to extract text from the uploaded documents accurately.<br>
+c) **Data Extraction:** NLP techniques will be utilized to identify and extract structured data such as names, addresses, dates, and other relevant information from the extracted text.<br>
+d) **Data Visualization:** The application will provide an intuitive user interface to visualize the extracted data, allowing users to review and make necessary edits or corrections.<br>
+e) **Security and Privacy:** Robust security measures will be implemented to protect user data and ensure compliance with privacy regulations.<br>
 
 ## Deliverables
 
@@ -46,6 +46,10 @@ We assume we will be able to address these disadvantages and limitations in this
 
 ## Primary Focus
 
+
+
+![image](https://github.com/athirakjayan/Extract_text_NER/assets/26280977/268abbd4-3c42-4a08-958b-71447b85f595)
+
 The primary focus is given to the following entities of a business card:
 
 1. Person Name
@@ -54,5 +58,3 @@ The primary focus is given to the following entities of a business card:
 4. Phone
 5. Email
 6. Website/URL
-
-![image](https://github.com/athirakjayan/Extract_text_NER/assets/26280977/268abbd4-3c42-4a08-958b-71447b85f595)
