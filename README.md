@@ -54,4 +54,5 @@ The primary focus is given to the following entities of a business card:
 4. Phone
 5. Email
 6. Website/URL
+
 ![image](https://github.com/athirakjayan/Extract_text_NER/assets/26280977/268abbd4-3c42-4a08-958b-71447b85f595)
